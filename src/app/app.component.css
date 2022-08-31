@@ -1,0 +1,15 @@
+.demo-avatar img {
+  width: 100px;
+  height: 100px;
+  border: 2px solid #fbbd32;
+  border-radius: 50%;
+}
+
+.testimonials-slider {
+  -ms-touch-action: pan-y;
+  touch-action: pan-y;
+}
+
+.table-cell {
+  display: table-cell;
+}

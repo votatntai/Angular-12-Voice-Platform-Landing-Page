@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "jangleedefault"
+  },
+  "targets": {
+    "pray-91216": {
+      "hosting": {
+        "Landing": [
+          "pray-91216"
+        ]
+      }
+    }
+  }
+}
